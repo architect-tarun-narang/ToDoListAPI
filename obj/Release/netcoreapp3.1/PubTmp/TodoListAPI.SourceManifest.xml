@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\ProjectsSample\Azure-Samples\ms-identity-javascript-angular-spa-dotnetcore-webapi-roles-groups-master\chapter1\TodoListAPI\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+</sitemanifest>
